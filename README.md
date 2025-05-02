@@ -10,12 +10,12 @@ This repository contains a deep learning-based project for detecting Parkinson's
 </p>
 
 
-#Objectives
+# Objectives <br>
 • Evaluate the performance of individual models (AlexNet, ResNet-50, EfficientNet-B0) and their ensemble by using DaTSCAN images for Parkinson’s Disease.
 • Combine the outputs of individual models into an ensemble framework by feature map concatenation, and improvements to enhance its accuracy and robustness.
 
 
-#Outcomes
+# Outcomes <br>
 • A comprehensive comparison of the performance of individual models (AlexNet, ResNet-50, EfficientNet-B0) and their ensemble.
 • A functional ensemble model that leverages the strengths of AlexNet, ResNet-50, and EfficientNet-B0 for Parkinson’s Disease.
 
