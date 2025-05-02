@@ -11,12 +11,14 @@ Parkinson's disease (PD) is a progressive neurodegenerative condition that impac
 
 
 # Objectives <br>
+<p align="justify">
 • Evaluate the performance of individual models (AlexNet, ResNet-50, EfficientNet-B0) and their ensemble by using DaTSCAN images for Parkinson’s Disease.<br>
 • Combine the outputs of individual models into an ensemble framework by feature map concatenation, and improvements to enhance its accuracy and robustness.
-
+</p>
 
 # Outcomes <br>
+<p align="justify">
 • A comprehensive comparison of the performance of individual models (AlexNet, ResNet-50, EfficientNet-B0) and their ensemble.<br>
 • A functional ensemble model that leverages the strengths of AlexNet, ResNet-50, and EfficientNet-B0 for Parkinson’s Disease.
-
+</p>
 
