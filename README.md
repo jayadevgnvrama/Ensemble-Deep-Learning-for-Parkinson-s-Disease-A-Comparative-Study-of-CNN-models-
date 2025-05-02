@@ -1,5 +1,4 @@
 # Ensemble-Deep-Learning-for-Parkinson-s-Disease-A-Comparative-Study-of-CNN-models-
-An Ensemble model for identifying a person suffering from the Parkinson's Disease or the person is free from the Disease.
 
 
 This repository contains a deep learning-based project for detecting Parkinson's disease using DaTSCAN images. The model utilizes three popular Convolutional Neural Network (CNN) architectures—AlexNet, EfficientNet-B0, and ResNet-50—and combines their feature representations through an ensemble model to improve classification accuracy.
